@@ -16,3 +16,10 @@ Since my course starts on February 4th, I am currently focusing on:
 * Building up my technical English vocabulary.
 * Getting familiar with Git and GitHub.
 * ⏳
+
+## 📚 Vocabulary I Learned Today
+* **Repository**: A storage space for my projects.
+* **Commit**: A way to save my progress with a descriptive message.
+* **Readability**: Making code and documents easy for others to read.
+* **Full-stack**: Covering both client-side and server-side development.
+* **Technical English**: Essential language for global developers.
