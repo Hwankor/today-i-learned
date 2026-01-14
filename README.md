@@ -18,6 +18,8 @@ Since my course starts on February 4th, I am currently focusing on:
 * ⏳
 
 ## 📚 Vocabulary I Learned Today
+* **2026-Jan-14th**
+* 
 * **Repository**: A storage space for my projects.
 * **Commit**: A way to save my progress with a descriptive message.
 * **Readability**: Making code and documents easy for others to read.
