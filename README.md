@@ -17,6 +17,11 @@ Since my course starts on February 4th, I am currently focusing on:
 * Getting familiar with Git and GitHub.
 * ⏳
 
+## 📝 Daily Journal
+
+### 🗓️ Jan 18, 2026
+I am incredibly excited to start the Full-stack Development course and take my first official step! With only two weeks left until February 4th, I am staying focused. As I mentioned before, I am consistently learning new technical vocabulary every day to build a solid foundation. I can't wait to dive into actual coding soon!
+
 ## 📚 Vocabulary I Learned Today
 ### 2026-Jan-14th 
 * **Repository**: A storage space for my projects.
@@ -36,3 +41,10 @@ Since my course starts on February 4th, I am currently focusing on:
 * **Debug**: The process of identifying and removing errors from software. (디버깅/오류 수정)
 * **Framework**: A basic structure underlying a system or concept. (프레임워크/기본 구조)
 * **Deployment**: The process of making a software system available for use. (배포)
+
+### 🗓️ Jan 18, 2026
+* **syntax**: The set of rules that defines the combinations of symbols. (코딩의 '문법')
+* **variable**: A storage location paried with an associated symblolic name. (데이터를 담는 '변수')
+* **data type**: A particular kind of data item, as defined by the values it can take. (자료형 - 숫자, 문자 등)
+* **method** : A programmed procedure that is defined as part of a class. (자바에서 쓰이는 '함수/기능' 단위)
+* **frontend**: the part of a website that users see and interact with. (사용자가 보는 웹 화면단)
