@@ -48,3 +48,14 @@ I am incredibly excited to start the Full-stack Development course and take my f
 * **data type**: A particular kind of data item, as defined by the values it can take. (자료형 - 숫자, 문자 등)
 * **method** : A programmed procedure that is defined as part of a class. (자바에서 쓰이는 '함수/기능' 단위)
 * **frontend**: the part of a website that users see and interact with. (사용자가 보는 웹 화면단)
+
+* ### 🗓️ Jan 20, 2026
+* #### i decided to change how i memo!
+* **Implement** : 구현하다
+* **Attribute** : 속성
+* **Embed** : 삽입하다
+* **Navigate** : 이동하다 탐색하다
+* **Description** : 설명
+* **Hierarchy** : 계층 구조
+
+* **✍️I practiced implementiong images and links while understanding HTML hierarchy**
