@@ -16,6 +16,9 @@ Since my course starts on February 4th, I am currently focusing on:
 * Building up my technical English vocabulary.
 * Getting familiar with Git and GitHub.
 * ⏳
+  
+
+
 
 ## 📝 Daily Journal
 
@@ -25,10 +28,20 @@ I am incredibly excited to start the Full-stack Development course and take my f
 ### 🗓️ Jan 23, 2026
 Today, I focused on understanding the essential structure of an HTML document and how to manage external resources effectively.
 
+### 🗓️ Jan 24, 2026
+I practiced creating a complete web page today, which took me around six hours. I encountered so many unknown concepts and made plenty of mistakes along the way. It was so stressing, but after finishing it, I felt a great sense of achievement.
+
 ## 📚 Learning Summary
+### 🗓️ Jan 22, 2026
 * **Metadata** & Encoding : I explored how <meta charset="UTF-8"> prevents character set issues, which is crucial for building accessible global applications.
 * **Linking Resources** : I practiced using the <link> element to integrate external stylesheets, Google Fonts, and favicons, improving both the design and performance (via preconnect) of the site.
 
+### 🗓️ Jan 24, 2026
+* **!DOCTYPE html** : Declares that this document uses HTML5 and Ensures the browser renders the page correctly.
+* **html lang="en"** : sets the languae of the page to ENG and Helps browsers and screen readers interpret the content properly.
+* **meta charset="UTF-8"** : Specifies UTF-8 character encoding and Prevents issues with special characters like Emojis! or.. french characters
+* **a href="URL" target="_blank"** : open the link in a new tap! without it user's will be annoyed
+* **footer** : contains copyright, contact info, or social media links! typically appears at the bottom of the page
 
 ## 📚 Vocabulary I Learned Today
 
