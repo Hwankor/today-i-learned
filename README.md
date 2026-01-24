@@ -96,3 +96,14 @@ I practiced creating a complete web page today, which took me around six hours. 
 * **Refactor** : 리팩토링(개선 작업)
 
 * **✍️To manage every resource effectively, a developer must ensure the HTML structure includes the correct UTF-8 encoding and essential metadata in the head section.**
+
+* ### 🗓️ Jan 25, 2026
+
+* **Intergrate** : 통합하다
+* **Deployment** : 배포
+* **Redundant** : 비효율적으로 반복되는
+* **Reflect** : 반영하다(고친 내용이 실제 웹사이트 화면에 나타나는 것.)
+* **Cache** : 캐시
+* **Confirmation** : 확인
+
+* **✍️ To reflect the deployment of your newly integrated code, you might need to clear your cache after a final confirmation to remove redundant files.**
