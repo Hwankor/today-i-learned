@@ -63,7 +63,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 * **method** : A programmed procedure that is defined as part of a class. (자바에서 쓰이는 '함수/기능' 단위)
 * **frontend**: the part of a website that users see and interact with. (사용자가 보는 웹 화면단)
 
-* ### 🗓️ Jan 20, 2026
+ ### 🗓️ Jan 20, 2026
 
 * **Implement** : 구현하다
 * **Attribute** : 속성
@@ -74,7 +74,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 
 * **✍️I practiced implementiong images and links while understanding HTML hierarchy**
 
-* ### 🗓️ Jan 23, 2026
+ ### 🗓️ Jan 23, 2026
 * 
 * **Resource** : 리소스(이미지, 폰트, CSS파일 등)
 * **Encoding** : 인코딩(like UTF-8)
@@ -86,7 +86,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 
 * **✍️To manage every resource effectively, a developer must ensure the HTML structure includes the correct UTF-8 encoding and essential metadata in the head section.**
 
-* ### 🗓️ Jan 25, 2026
+ ### 🗓️ Jan 25, 2026
 
 * **Intergrate** : 통합하다
 * **Deployment** : 배포
@@ -97,7 +97,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 
 * **✍️ To reflect the deployment of your newly integrated code, you might need to clear your cache after a final confirmation to remove redundant files.**
 
-* ### 🗓️ Jan 27, 2026
+ ### 🗓️ Jan 27, 2026
 
 * **snippet** : 미리보기에서 보이는 요약정보
 * **CRT** : 클릭률(Click-Through Rate)
