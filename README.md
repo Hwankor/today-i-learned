@@ -16,8 +16,6 @@ Since my course starts on February 4th, I am currently focusing on:
 * Building up my technical English vocabulary.
 * Getting familiar with Git and GitHub.
 * ⏳
-  
-
 
 
 ## 📝 Daily Journal
@@ -31,17 +29,8 @@ Today, I focused on understanding the essential structure of an HTML document an
 ### 🗓️ Jan 24, 2026
 I practiced creating a complete web page today, which took me around six hours. I encountered so many unknown concepts and made plenty of mistakes along the way. It was so stressing, but after finishing it, I felt a great sense of achievement.
 
-## 📚 Learning Summary
-### 🗓️ Jan 22, 2026
-* **Metadata** & Encoding : I explored how <meta charset="UTF-8"> prevents character set issues, which is crucial for building accessible global applications.
-* **Linking Resources** : I practiced using the <link> element to integrate external stylesheets, Google Fonts, and favicons, improving both the design and performance (via preconnect) of the site.
-
-### 🗓️ Jan 24, 2026
-* **!DOCTYPE html** : Declares that this document uses HTML5 and Ensures the browser renders the page correctly.
-* **html lang="en"** : sets the languae of the page to ENG and Helps browsers and screen readers interpret the content properly.
-* **meta charset="UTF-8"** : Specifies UTF-8 character encoding and Prevents issues with special characters like Emojis! or.. french characters
-* **a href="URL" target="_blank"** : open the link in a new tap! without it user's will be annoyed
-* **footer** : contains copyright, contact info, or social media links! typically appears at the bottom of the page
+### 🗓️ Jan 26, 2026
+Documenting what I’ve learned after a long coding session is exhausting, but I do it to keep myself motivated and to share my journey with those who support my growth. Every small step counts!
 
 ## 📚 Vocabulary I Learned Today
 
@@ -107,3 +96,13 @@ I practiced creating a complete web page today, which took me around six hours. 
 * **Confirmation** : 확인
 
 * **✍️ To reflect the deployment of your newly integrated code, you might need to clear your cache after a final confirmation to remove redundant files.**
+
+* ### 🗓️ Jan 27, 2026
+
+* **snippet** : 미리보기에서 보이는 요약정보
+* **CRT** : 클릭률(Click-Through Rate)
+* **Engagment** : 사용자 반응(좋아요, 공유 etc)
+* **context** : 맥락, 의미 관계
+* **SEO** : 검색 엔진 최적화(Search Engine Optimize)
+
+* **✍️ By using semantic HTML and metadata, I learned that meta descriptions and Open Graph tags shape content previews, improve user engagement, and indirectly impact SEO through higher click-through rates.**
