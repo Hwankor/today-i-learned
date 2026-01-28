@@ -47,88 +47,112 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 <summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
 
 <details><strong>
-### 2026-Jan-14th 
-</strong>
-* **Repository**: A storage space for my projects.
-* **Commit**: A way to save my progress with a descriptive message.
-* **Readability**: Making code and documents easy for others to read.
-* **Full-stack**: Covering both client-side and server-side development.
-* **Technical English**: Essential language for global developers.
+<details>
+  <summary><strong>🗓️ 2026-Jan-14</strong></summary>
+
+  <ul>
+    <li><strong>Repository</strong>: A storage space for my projects.</li>
+    <li><strong>Commit</strong>: A way to save my progress with a descriptive message.</li>
+    <li><strong>Readability</strong>: Making code and documents easy for others to read.</li>
+    <li><strong>Full-stack</strong>: Covering both client-side and server-side development.</li>
+    <li><strong>Technical English</strong>: Essential language for global developers.</li>
+  </ul>
 </details>
 
-<details><strong>
-### 🗓️ Jan 15, 2026
-</strong>
-* **Collaborate**: To work together with others to achieve a goal. (협업하다)
-* **Efficient**: Working in a well-organized and competent way. (효율적인)
-* **Implementation**: The process of putting a decision or plan into effect. (구현/실행)
-* **Requirement**: A condition or capability that must be met or possessed by a system. (요구사항)
-* **Optimization**: The action of making the best or most effective use of a resource. (최적화)
-* **Scalable**: The ability of a system to handle a growing amount of work. (확장 가능한)
-* **Bug**: An error, flaw or fault in a computer program. (버그/오류)
-* **Debug**: The process of identifying and removing errors from software. (디버깅/오류 수정)
-* **Framework**: A basic structure underlying a system or concept. (프레임워크/기본 구조)
-* **Deployment**: The process of making a software system available for use. (배포)
+<details>
+  <summary><strong>🗓️ Jan 15, 2026</strong></summary>
+
+  <ul>
+    <li><strong>Collaborate</strong>: To work together with others to achieve a goal. (협업하다)</li>
+    <li><strong>Efficient</strong>: Working in a well-organized and competent way. (효율적인)</li>
+    <li><strong>Implementation</strong>: The process of putting a decision or plan into effect. (구현/실행)</li>
+    <li><strong>Requirement</strong>: A condition or capability that must be met or possessed by a system. (요구사항)</li>
+    <li><strong>Optimization</strong>: The action of making the best or most effective use of a resource. (최적화)</li>
+    <li><strong>Scalable</strong>: The ability of a system to handle a growing amount of work. (확장 가능한)</li>
+    <li><strong>Bug</strong>: An error, flaw, or fault in a computer program. (버그/오류)</li>
+    <li><strong>Debug</strong>: The process of identifying and removing errors from software. (디버깅/오류 수정)</li>
+    <li><strong>Framework</strong>: A basic structure underlying a system or concept. (프레임워크/기본 구조)</li>
+    <li><strong>Deployment</strong>: The process of making a software system available for use. (배포)</li>
+  </ul>
 </details>
 
-<details><strong>
-### 🗓️ Jan 18, 2026
-</strong>
-* **syntax**: The set of rules that defines the combinations of symbols. (코딩의 '문법')
-* **variable**: A storage location paried with an associated symblolic name. (데이터를 담는 '변수')
-* **data type**: A particular kind of data item, as defined by the values it can take. (자료형 - 숫자, 문자 등)
-* **method** : A programmed procedure that is defined as part of a class. (자바에서 쓰이는 '함수/기능' 단위)
-* **frontend**: the part of a website that users see and interact with. (사용자가 보는 웹 화면단)
+<details>
+  <summary><strong>🗓️ Jan 18, 2026</strong></summary>
+
+  <ul>
+    <li><strong>Syntax</strong>: The set of rules that defines the combinations of symbols. (코딩의 문법)</li>
+    <li><strong>Variable</strong>: A storage location paired with an associated symbolic name. (변수)</li>
+    <li><strong>Data type</strong>: A particular kind of data item, defined by the values it can take. (자료형)</li>
+    <li><strong>Method</strong>: A programmed procedure defined as part of a class. (자바의 함수/기능 단위)</li>
+    <li><strong>Frontend</strong>: The part of a website that users see and interact with. (사용자 화면)</li>
+  </ul>
 </details>
 
-<details><strong>
- ### 🗓️ Jan 20, 2026
-</strong>
-* **Implement** : 구현하다
-* **Attribute** : 속성
-* **Embed** : 삽입하다
-* **Navigate** : 이동하다 탐색하다
-* **Description** : 설명
-* **Hierarchy** : 계층 구조
 
-* **✍️I practiced implementiong images and links while understanding HTML hierarchy**
+<details>
+  <summary><strong>🗓️ Jan 20, 2026</strong></summary>
+
+  <ul>
+    <li><strong>Implement</strong>: To put something into effect. (구현하다)</li>
+    <li><strong>Attribute</strong>: A property or characteristic of an element. (속성)</li>
+    <li><strong>Embed</strong>: To insert content into a page. (삽입하다)</li>
+    <li><strong>Navigate</strong>: To move through or explore. (이동하다, 탐색하다)</li>
+    <li><strong>Description</strong>: An explanation of something. (설명)</li>
+    <li><strong>Hierarchy</strong>: A system organized by levels. (계층 구조)</li>
+  </ul>
+
+  <p>
+    ✍️ I practiced implementing images and links while understanding HTML hierarchy.
+  </p>
 </details>
 
-<details><strong>
- ### 🗓️ Jan 23, 2026
-</strong>
-* **Resource** : 리소스(이미지, 폰트, CSS파일 등)
-* **Encoding** : 인코딩(like UTF-8)
-* **branch** : 브랜치(독립적으로 작업하는 코드(?))
-* **Merge** : 머지(나눈 브랜치를 하나로 합치는 작업)
-* **Structure** : 구조
-* **Metadata** : 메타데이터(데이터를 설명하기 위한 '데이터')
-* **Refactor** : 리팩토링(개선 작업)
+<details>
+  <summary><strong>🗓️ Jan 23, 2026</strong></summary>
 
-* **✍️To manage every resource effectively, a developer must ensure the HTML structure includes the correct UTF-8 encoding and essential metadata in the head section.**
+  <ul>
+    <li><strong>Resource</strong>: Assets such as images, fonts, and CSS files. (리소스)</li>
+    <li><strong>Encoding</strong>: Character encoding like UTF-8. (인코딩)</li>
+    <li><strong>Branch</strong>: An independent line of development in Git. (브랜치)</li>
+    <li><strong>Merge</strong>: Combining branches into one. (병합)</li>
+    <li><strong>Structure</strong>: The arrangement of parts. (구조)</li>
+    <li><strong>Metadata</strong>: Data that describes other data. (메타데이터)</li>
+    <li><strong>Refactor</strong>: Improving code without changing its behavior. (리팩토링)</li>
+  </ul>
+
+  <p>
+    ✍️ To manage resources effectively, I learned that HTML must include correct UTF-8 encoding and essential metadata in the head section.
+  </p>
 </details>
 
-<details><strong>
- ### 🗓️ Jan 25, 2026
-</strong>
-* **Intergrate** : 통합하다
-* **Deployment** : 배포
-* **Redundant** : 비효율적으로 반복되는
-* **Reflect** : 반영하다(고친 내용이 실제 웹사이트 화면에 나타나는 것.)
-* **Cache** : 캐시
-* **Confirmation** : 확인
+<details>
+  <summary><strong>🗓️ Jan 25, 2026</strong></summary>
 
-* **✍️ To reflect the deployment of your newly integrated code, you might need to clear your cache after a final confirmation to remove redundant files.**
+  <ul>
+    <li><strong>Integrate</strong>: To combine parts into a whole. (통합하다)</li>
+    <li><strong>Deployment</strong>: Making software available for use. (배포)</li>
+    <li><strong>Redundant</strong>: Unnecessarily repetitive or inefficient. (중복된)</li>
+    <li><strong>Reflect</strong>: To show changes in the output or UI. (반영하다)</li>
+    <li><strong>Cache</strong>: Stored data for faster access. (캐시)</li>
+    <li><strong>Confirmation</strong>: Verification that something is correct. (확인)</li>
+  </ul>
+
+  <p>
+    ✍️ To reflect newly deployed code, clearing the cache after final confirmation helps remove redundant files.
+  </p>
 </details>
 
-<details><strong>
- ### 🗓️ Jan 27, 2026
-</strong>
-* **snippet** : 미리보기에서 보이는 요약정보
-* **CRT** : 클릭률(Click-Through Rate)
-* **Engagment** : 사용자 반응(좋아요, 공유 etc)
-* **context** : 맥락, 의미 관계
-* **SEO** : 검색 엔진 최적화(Search Engine Optimize)
+<details>
+  <summary><strong>🗓️ Jan 27, 2026</strong></summary>
 
-* **✍️ By using semantic HTML and metadata, I learned that meta descriptions and Open Graph tags shape content previews, improve user engagement, and indirectly impact SEO through higher click-through rates.**
+  <ul>
+    <li><strong>Snippet</strong>: A short preview of content. (미리보기 요약)</li>
+    <li><strong>CTR</strong>: Click-Through Rate. (클릭률)</li>
+    <li><strong>Engagement</strong>: User interaction such as likes and shares. (사용자 반응)</li>
+    <li><strong>Context</strong>: The surrounding meaning or situation. (맥락)</li>
+    <li><strong>SEO</strong>: Search Engine Optimization. (검색 엔진 최적화)</li>
+  </ul>
+
+  <p>
+    ✍️ By using semantic HTML and metadata, I learned how meta descriptions and Open Graph tags improve content previews, user engagement, and indirectly boost SEO through higher CTR.
+  </p>
 </details>
