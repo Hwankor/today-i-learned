@@ -18,7 +18,7 @@ Since my course starts on February 4th, I am currently focusing on:
 * ⏳
 
 ## ✌️Contents✌️
-<p></p>
+<br>
 <details>
 <summary>🚑Troubleshooting</summary>
   <p></p>
