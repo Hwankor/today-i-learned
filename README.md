@@ -17,7 +17,8 @@ Since my course starts on February 4th, I am currently focusing on:
 * Getting familiar with Git and GitHub.
 * ⏳
 
-##✌️Contents✌️
+## ✌️Contents✌️
+
 <details>
 <summary>🚑Troubleshooting</summary>
   
