@@ -45,9 +45,9 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 </details>
 
 
-
-<summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
 <details>
+<summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
+
 <details><strong>
   <summary><strong>🗓️ 2026-Jan-14</strong></summary>
 
@@ -156,4 +156,5 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
   <p>
     ✍️ By using semantic HTML and metadata, I learned how meta descriptions and Open Graph tags improve content previews, user engagement, and indirectly boost SEO through higher CTR.
   </p>
+</details>
 </details>
