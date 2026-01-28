@@ -47,7 +47,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 
 
 <summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
-
+<details>
 <details><strong>
   <summary><strong>🗓️ 2026-Jan-14</strong></summary>
 
