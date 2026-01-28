@@ -17,17 +17,19 @@ Since my course starts on February 4th, I am currently focusing on:
 * Getting familiar with Git and GitHub.
 * ⏳
 
-<summary><strong>## Lesson from mistake</strong></summary>
 
 <details>
-<summary><strong>### 🗓️ Jan 28, 2026</strong></summary>
-
-**Troubleshooting:**
-* **Problem:** I embedded a YouTube link into an `<iframe>`, but I encountered a "Connection Refused" error.
-* **Cause:** Standard YouTube share links (`watch?v=`) are restricted for security reasons.
-* **Solution:** I converted the link into the `/embed/` format.
+🚑Troubleshooting
+  <details>
+<summary><strong>🗓️ Jan 28, 2026:</strong></summary>
+<ul>
+<li>Problem: I embedded a YouTube link into an `iframe`, but I encountered a "Connection Refused" error.</li>
+<li>Cause:** Standard YouTube share links (`watch?v=`) are restricted for security reasons.</li>
+<li>Solution:** I converted the link into the `/embed/` format.</li>
+</ul>
+  </details>
 </details>
-
+  
 <details><strong>
 ## 📝 Daily Journal
 </strong>
@@ -48,7 +50,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 <details>
 <summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
 
-<details><strong>
+<details>
   <summary><strong>🗓️ 2026-Jan-14</strong></summary>
 
   <ul>
