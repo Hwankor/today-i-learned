@@ -32,7 +32,7 @@ Since my course starts on February 4th, I am currently focusing on:
 </details>
   
 <details>
-<summary><strong 📝 Daily Journal</strong></summary>
+<summary><strong>📝 Daily Journal</strong></summary>
   
   <details>
 <summary><strong>🗓️ Jan 18, 2026</strong></summary>
@@ -55,7 +55,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 </details>
 
 <details>
-<summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
+<summary><strong>📚 Vocabulary I Learned Today</strong></summary>
 
 <details>
   <summary><strong>🗓️ 2026-Jan-14</strong></summary>
