@@ -19,7 +19,8 @@ Since my course starts on February 4th, I am currently focusing on:
 
 
 <details>
-🚑Troubleshooting
+<summary>🚑Troubleshooting</summary>
+  
   <details>
 <summary><strong>🗓️ Jan 28, 2026:</strong></summary>
 <ul>
@@ -30,22 +31,25 @@ Since my course starts on February 4th, I am currently focusing on:
   </details>
 </details>
   
-<details><strong>
-## 📝 Daily Journal
-</strong>
-### 🗓️ Jan 18, 2026
+<details>
+<summary><strong>## 📝 Daily Journal</strong></summary>
+  <details>
+<summary><strong>### 🗓️ Jan 18, 2026</strong></summary>
 I am incredibly excited to start the Full-stack Development course and take my first official step! With only two weeks left until February 4th, I am staying focused. As I mentioned before, I am consistently learning new technical vocabulary every day to build a solid foundation. I can't wait to dive into actual coding soon!
-
-### 🗓️ Jan 23, 2026
+  </details>
+<summary><strong>### 🗓️ Jan 23, 2026</strong></summary>
 Today, I focused on understanding the essential structure of an HTML document and how to manage external resources effectively.
-
-### 🗓️ Jan 24, 2026
+</details>
+<details>
+<summary><strong>### 🗓️ Jan 24, 2026</strong></summary>
 I practiced creating a complete web page today, which took me around six hours. I encountered so many unknown concepts and made plenty of mistakes along the way. It was so stressing, but after finishing it, I felt a great sense of achievement.
-
-### 🗓️ Jan 26, 2026
+</details>
+<details>
+<summary><strong>### 🗓️ Jan 26, 2026</summary></strong>
 Documenting what I’ve learned after a long coding session is exhausting, but I do it to keep myself motivated and to share my journey with those who support my growth. Every small step counts!
 </details>
-
+  
+</details>
 
 <details>
 <summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
