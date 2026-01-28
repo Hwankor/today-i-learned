@@ -18,10 +18,10 @@ Since my course starts on February 4th, I am currently focusing on:
 * ⏳
 
 ## ✌️Contents✌️
-
+<p></p>
 <details>
 <summary>🚑Troubleshooting</summary>
-  
+  <p></p>
   <details>
 <summary><strong>🗓️ Jan 28, 2026:</strong></summary>
 <ul>
@@ -34,7 +34,7 @@ Since my course starts on February 4th, I am currently focusing on:
   
 <details>
 <summary><strong>📝 Daily Journal</strong></summary>
-  
+  <p></p>
   <details>
 <summary><strong>🗓️ Jan 18, 2026</strong></summary>
 I am incredibly excited to start the Full-stack Development course and take my first official step! With only two weeks left until February 4th, I am staying focused. As I mentioned before, I am consistently learning new technical vocabulary every day to build a solid foundation. I can't wait to dive into actual coding soon!
@@ -57,7 +57,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 
 <details>
 <summary><strong>📚 Vocabulary I Learned Today</strong></summary>
-
+<p></p>
 <details>
   <summary><strong>🗓️ 2026-Jan-14</strong></summary>
 
