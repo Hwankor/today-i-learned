@@ -17,9 +17,20 @@ Since my course starts on February 4th, I am currently focusing on:
 * Getting familiar with Git and GitHub.
 * ⏳
 
+<summary><strong>## Lesson from mistake</strong></summary>
 
+<details>
+<summary><strong>### 🗓️ Jan 28, 2026</strong></summary>
+
+**Troubleshooting:**
+* **Problem:** I embedded a YouTube link into an `<iframe>`, but I encountered a "Connection Refused" error.
+* **Cause:** Standard YouTube share links (`watch?v=`) are restricted for security reasons.
+* **Solution:** I converted the link into the `/embed/` format.
+</details>
+
+<details><strong>
 ## 📝 Daily Journal
-
+</strong>
 ### 🗓️ Jan 18, 2026
 I am incredibly excited to start the Full-stack Development course and take my first official step! With only two weeks left until February 4th, I am staying focused. As I mentioned before, I am consistently learning new technical vocabulary every day to build a solid foundation. I can't wait to dive into actual coding soon!
 
@@ -31,19 +42,23 @@ I practiced creating a complete web page today, which took me around six hours. 
 
 ### 🗓️ Jan 26, 2026
 Documenting what I’ve learned after a long coding session is exhausting, but I do it to keep myself motivated and to share my journey with those who support my growth. Every small step counts!
+</details>
 
-## 📚 Vocabulary I Learned Today
+<summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
 
+<details><strong>
 ### 2026-Jan-14th 
-
+</strong>
 * **Repository**: A storage space for my projects.
 * **Commit**: A way to save my progress with a descriptive message.
 * **Readability**: Making code and documents easy for others to read.
 * **Full-stack**: Covering both client-side and server-side development.
 * **Technical English**: Essential language for global developers.
+</details>
 
+<details><strong>
 ### 🗓️ Jan 15, 2026
-
+</strong>
 * **Collaborate**: To work together with others to achieve a goal. (협업하다)
 * **Efficient**: Working in a well-organized and competent way. (효율적인)
 * **Implementation**: The process of putting a decision or plan into effect. (구현/실행)
@@ -54,17 +69,21 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 * **Debug**: The process of identifying and removing errors from software. (디버깅/오류 수정)
 * **Framework**: A basic structure underlying a system or concept. (프레임워크/기본 구조)
 * **Deployment**: The process of making a software system available for use. (배포)
+</details>
 
+<details><strong>
 ### 🗓️ Jan 18, 2026
-
+</strong>
 * **syntax**: The set of rules that defines the combinations of symbols. (코딩의 '문법')
 * **variable**: A storage location paried with an associated symblolic name. (데이터를 담는 '변수')
 * **data type**: A particular kind of data item, as defined by the values it can take. (자료형 - 숫자, 문자 등)
 * **method** : A programmed procedure that is defined as part of a class. (자바에서 쓰이는 '함수/기능' 단위)
 * **frontend**: the part of a website that users see and interact with. (사용자가 보는 웹 화면단)
+</details>
 
+<details><strong>
  ### 🗓️ Jan 20, 2026
-
+</strong>
 * **Implement** : 구현하다
 * **Attribute** : 속성
 * **Embed** : 삽입하다
@@ -73,9 +92,11 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 * **Hierarchy** : 계층 구조
 
 * **✍️I practiced implementiong images and links while understanding HTML hierarchy**
+</details>
 
+<details><strong>
  ### 🗓️ Jan 23, 2026
-* 
+</strong>
 * **Resource** : 리소스(이미지, 폰트, CSS파일 등)
 * **Encoding** : 인코딩(like UTF-8)
 * **branch** : 브랜치(독립적으로 작업하는 코드(?))
@@ -85,9 +106,11 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 * **Refactor** : 리팩토링(개선 작업)
 
 * **✍️To manage every resource effectively, a developer must ensure the HTML structure includes the correct UTF-8 encoding and essential metadata in the head section.**
+</details>
 
+<details><strong>
  ### 🗓️ Jan 25, 2026
-
+</strong>
 * **Intergrate** : 통합하다
 * **Deployment** : 배포
 * **Redundant** : 비효율적으로 반복되는
@@ -96,9 +119,11 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 * **Confirmation** : 확인
 
 * **✍️ To reflect the deployment of your newly integrated code, you might need to clear your cache after a final confirmation to remove redundant files.**
+</details>
 
+<details><strong>
  ### 🗓️ Jan 27, 2026
-
+</strong>
 * **snippet** : 미리보기에서 보이는 요약정보
 * **CRT** : 클릭률(Click-Through Rate)
 * **Engagment** : 사용자 반응(좋아요, 공유 etc)
@@ -106,3 +131,4 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
 * **SEO** : 검색 엔진 최적화(Search Engine Optimize)
 
 * **✍️ By using semantic HTML and metadata, I learned that meta descriptions and Open Graph tags shape content previews, improve user engagement, and indirectly impact SEO through higher click-through rates.**
+</details>
