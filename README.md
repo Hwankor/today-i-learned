@@ -44,10 +44,11 @@ I practiced creating a complete web page today, which took me around six hours. 
 Documenting what I’ve learned after a long coding session is exhausting, but I do it to keep myself motivated and to share my journey with those who support my growth. Every small step counts!
 </details>
 
+
+
 <summary><strong>## 📚 Vocabulary I Learned Today</strong></summary>
 
 <details><strong>
-<details>
   <summary><strong>🗓️ 2026-Jan-14</strong></summary>
 
   <ul>
