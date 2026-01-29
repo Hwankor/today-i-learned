@@ -30,6 +30,7 @@ Since my course starts on February 4th, I am currently focusing on:
 <li>Solution:** I converted the link into the `/embed/` format.</li>
 </ul>
   </details>
+  
 </details>
   
 <details>
@@ -53,6 +54,13 @@ I practiced creating a complete web page today, which took me around six hours. 
 <summary><strong>🗓️ Jan 26, 2026</summary></strong>
 Documenting what I’ve learned after a long coding session is exhausting, but I do it to keep myself motivated and to share my journey with those who support my growth. Every small step counts!
 </details>
+
+<details>
+<summary><strong>🗓️ Jan 29, 2026</strong></summary>
+  To be honest, Elon musk mentioned that coding work is one of the easeast job that can be reaplced by AI. I'm just starting it, to see those news or article have me feel so afraid and unmotivated..Doesn't mean i will give up!
+  i will improve myself every single day despite i don't record in github everyday!
+</details>
+  
 </details>
 
 <details>
@@ -166,5 +174,17 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
   <p>
     ✍️ By using semantic HTML and metadata, I learned how meta descriptions and Open Graph tags improve content previews, user engagement, and indirectly boost SEO through higher CTR.
   </p>
-</details>
+  
+  <details>
+  <summary><strong>🗓️ Jan 27, 2026</strong></summary>
+    <li><strong>Path Syntax:</strong>경로 구문(파일 위치를 나타내는 규칙)</li>
+    <li><strong>Parent Directory:</strong>현재 폴더위 상위 폴더</li>
+    <li><strong>Current Directory:</strong>현재 폴터</li>
+    <li><strong>Absolute Path:</strong>전체 주소를 적는 방식</li>
+    <li><strong>Relative Pate:</strong>현재 위치 기준 주소</li>
+    <li><strong>Maintainable:</strong></strong>유지보수가 쉬운</li>
+    <li><strong>UX(User Experience):</strong>유저 경험</li>
+    <p>✍️ To improve accessibility and UX, I learned to optimize the repository's hierarchy by using relative paths with single or double dots and strategically setting target attributes like _parent or _top for better navigation.</p>
+  </details>
+
 </details>
