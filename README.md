@@ -176,7 +176,7 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
   </p>
   
   <details>
-  <summary><strong>🗓️ Jan 27, 2026</strong></summary>
+  <summary><strong>🗓️ Jan 29, 2026</strong></summary>
     <li><strong>Path Syntax:</strong>경로 구문(파일 위치를 나타내는 규칙)</li>
     <li><strong>Parent Directory:</strong>현재 폴더위 상위 폴더</li>
     <li><strong>Current Directory:</strong>현재 폴터</li>
