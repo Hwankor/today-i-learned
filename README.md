@@ -60,6 +60,12 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
   To be honest, Elon musk mentioned that coding work is one of the easeast job that can be reaplced by AI. I'm just starting it, to see those news or article have me feel so afraid and unmotivated..Doesn't mean i will give up!
   i will improve myself every single day despite i don't record in github everyday!
 </details>
+
+<details>
+<summary><strong>🗓️ Jan 30, 2026</strong></summary>
+I practiced structuring a web page using description lists.<dt><dd><dl>.I hadn't realized how effective description lists could be for emphasizing and defining content! It's fascinating(or strange) to discover so many semantic ways to structure text beyond just paragraphs.
+  My practice page might be simple for now, but I'm building a solid foundation one tag at a time!
+</details>
   
 </details>
 
@@ -187,4 +193,13 @@ Documenting what I’ve learned after a long coding session is exhausting, but I
     <p>✍️ To improve accessibility and UX, I learned to optimize the repository's hierarchy by using relative paths with single or double dots and strategically setting target attributes like _parent or _top for better navigation.</p>
   </details>
 
+ <details>
+  <summary><strong>🗓️ Jan 30, 2026</strong></summary>
+    <li><strong>Angle Brackets:</strong><,> <--이거</li>
+    <li><strong>Glossary:</strong>용어 사전</li>
+    <li><strong>Indention:</strong>들여쓰기</li>
+    <li><strong>Semantic:</strong>의미론적인</li>
+    <p>✍️ By mastering the semantic difference between each element and its attribute, I can now create a maintainable repository where description lists provide a clear hierarchy for every resource.</p>
+  </details>
+  
 </details>
