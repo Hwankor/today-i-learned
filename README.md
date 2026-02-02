@@ -30,9 +30,19 @@ Since my course starts on February 4th, I am currently focusing on:
 <li>Solution:** I converted the link into the `/embed/` format.</li>
 </ul>
   </details>
-  
+  </details>
+
+  <details>
+<summary>🔍Semantic Deep Dive</summary>
+<details>
+<summary><strong>🗓️ Feb 2, 2026</strong></summary>
+  <ul>
+<li>Machine-Readable Time: While humans read "8 PM," machines process datetime="20:00". Using the <time> element ensures that search engines and calendar apps can interpret our data accurately.</li>
+<li>Professionalism in Contact Info: Instead of using a generic <div>, the <address> element explicitly declares that the content is for contact purposes, improving the document's overall meaningful structure.</li>
+</ul>  
 </details>
-  
+</details>
+
 <details>
 <summary><strong>📝 Daily Journal</strong></summary>
   <p></p>
@@ -201,5 +211,18 @@ I practiced structuring a web page using description lists.<dt><dd><dl>.I hadn't
     <li><strong>Semantic:</strong>의미론적인</li>
     <p>✍️ By mastering the semantic difference between each element and its attribute, I can now create a maintainable repository where description lists provide a clear hierarchy for every resource.</p>
   </details>
-  
+
+   <details>
+  <summary><strong>🗓️ Feb 2, 2026</strong></summary>
+     <ul>
+    <li><strong>Quotation:</strong>인용문</li>
+    <li><strong>Acronym:</strong>두문자어(단어처럼 읽는 약어)</li>
+    <li><strong>Initialism:</strong>두문자어(철자대로 읽는 약어)</li>
+    <li><strong>Versatile:</strong>다재다능한</li>
+     <li><strong>Concise:</strong>간결한</li>
+     <li><strong>ISO 8601:</strong>날짜/시간 표기 국제 표준</li>
+     </ul>
+    <p> ✍️ Combined Sentence: To help search engines process data effectively, I learned to translate dates into a machine-readable ISO 8601 standard using the time element, while keeping my quotations and abbreviations concise and human-readable.</p>
+     
+  </details>
 </details>
