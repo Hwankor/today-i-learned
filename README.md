@@ -41,6 +41,12 @@ Since my course starts on February 4th, I am currently focusing on:
 <li>Professionalism in Contact Info: Instead of using a generic <div>, the <address> element explicitly declares that the content is for contact purposes, improving the document's overall meaningful structure.</li>
 </ul>  
 </details>
+
+  <details>
+  <summary><strong>🗓️ Feb 8, 2026</strong></summary>
+    <ul>
+      <li>Explict Labeling : Creates a logical link between text and inputs, making the form intuitive by allowing users to click labels to focus on fields. </li>
+      <li>State Management : Manages UI sophistication by disabling or restricting inputs until specific conditions are met to prevent errors.</li>
 </details>
 
 <details>
