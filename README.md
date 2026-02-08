@@ -233,7 +233,8 @@ I practiced structuring a web page using description lists.<dt><dd><dl>.I hadn't
      <li><strong>ISO 8601:</strong>날짜/시간 표기 국제 표준</li>
      </ul>
     <p> ✍️ Combined Sentence: To help search engines process data effectively, I learned to translate dates into a machine-readable ISO 8601 standard using the time element, while keeping my quotations and abbreviations concise and human-readable.</p>
-
+   </details>
+   
   <details>
   <summary><strong>🗓️ Feb 8, 2026</strong></summary>
     <ul><li>Restriction:제한/구속</li>
