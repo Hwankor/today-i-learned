@@ -47,7 +47,10 @@ Since my course starts on February 4th, I am currently focusing on:
     <ul>
       <li>Explict Labeling : Creates a logical link between text and inputs, making the form intuitive by allowing users to click labels to focus on fields. </li>
       <li>State Management : Manages UI sophistication by disabling or restricting inputs until specific conditions are met to prevent errors.</li>
+    </ul>
+    
 </details>
+    </details>
 
 <details>
 <summary><strong>📝 Daily Journal</strong></summary>
@@ -230,6 +233,13 @@ I practiced structuring a web page using description lists.<dt><dd><dl>.I hadn't
      <li><strong>ISO 8601:</strong>날짜/시간 표기 국제 표준</li>
      </ul>
     <p> ✍️ Combined Sentence: To help search engines process data effectively, I learned to translate dates into a machine-readable ISO 8601 standard using the time element, while keeping my quotations and abbreviations concise and human-readable.</p>
-     
+
+  <details>
+  <summary><strong>🗓️ Feb 8, 2026</strong></summary>
+    <ul><li>Restriction:제한/구속</li>
+    <li>Essential : 필수적인</li>
+      <li>Mandatory : 의무적인</li>
+      <li>submission : 제출(버튼을 눌러서 데이터 보내기)</li>
+    </ul>
   </details>
 </details>
